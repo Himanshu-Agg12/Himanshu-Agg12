@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=himanshu-agg12" alt="himanshu-agg12" /></a> </p>
 
-- 🔭 I’m currently working on **a JavaScript browser based game.**
+- 🔭 I’m currently working on **My Problem Solving Skills.**
 
 - 🌱 I’m currently learning **NodeJS, Express, AWS, Doker, soket.io**
 
