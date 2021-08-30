@@ -50,12 +50,10 @@
   <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
   </p>
 
-<div align="left">
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=himanshu-agg12&show_icons=true&locale=en&layout=compact" alt="Himanshu" /></p>
-</div>
+<div align="center">
+  <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=himanshu-agg12&show_icons=true&locale=en&layout=compact" alt="Himanshu" /></p>
  
-<div align="right">
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=himanshu-agg12&show_icons=true&locale=en" alt="Himanshu" /></p>
+  <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=himanshu-agg12&show_icons=true&locale=en" alt="Himanshu" /></p>
 </div>
 
 </br></br>
