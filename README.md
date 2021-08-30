@@ -1,7 +1,5 @@
-
-[![Himanshu](https://s6.gifyu.com/images/mygif192d435b526d5ec2.gif)](Himanshu)
-<div align="center">
- <a href="Poster"><img align="center" src="https://s6.gifyu.com/images/mygif192d435b526d5ec2.gif" alt="Himanshu"/></a>
+<div width="500px" align="center">
+ <a href="Poster"><img width="100%" align="center" src="https://s6.gifyu.com/images/mygif192d435b526d5ec2.gif" alt="Himanshu"/></a>
 </div>
 <h1 align="center">Hi&nbsp; <a href="Hey"><img src="https://raw.githubusercontent.com/TOXIC-DEVIL/TOXIC-DEVIL/TOXIC-DEVIL-OFFICIAL/media/Hi.gif" width="48px"></a> I'm Himanshu Aggarwal</h1>
 <h3 align="center">A passionate Programmer and developer.</h3>
