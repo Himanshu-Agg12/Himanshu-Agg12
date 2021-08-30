@@ -47,17 +47,19 @@
   
   
   <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> &nbsp;&nbsp;
-  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-
-  
-  
+  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
   </p>
 
-<div align="center">
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=himanshu-agg12&show_icons=true&locale=en&layout=compact" alt="Himanshu" /></p>
- </div>
-<div align="right"><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=himanshu-agg12&show_icons=true&locale=en" alt="himanshu-agg12" /></p></div>
+<div align="left">
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=himanshu-agg12&show_icons=true&locale=en&layout=compact" alt="Himanshu" /></p>
+</div>
+ 
+<div align="right">
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=himanshu-agg12&show_icons=true&locale=en" alt="Himanshu" /></p>
+</div>
+
 </br></br>
+
 <div align="center">
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=himanshu-agg12&" alt="himanshu-agg12" /></p>
+  <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=himanshu-agg12&" alt="Himanshu" /></p>
 </div>
