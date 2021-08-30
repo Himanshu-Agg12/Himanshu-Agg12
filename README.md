@@ -1,15 +1,15 @@
 
 [![Himanshu](https://s6.gifyu.com/images/mygif192d435b526d5ec2.gif)](Himanshu)
-<h1 align="center">Hi 👋, I'm Himanshu Aggarwal</h1>
+<h1 align="center">Hi&nbsp; <a href="Hey"><img src="https://raw.githubusercontent.com/TOXIC-DEVIL/TOXIC-DEVIL/TOXIC-DEVIL-OFFICIAL/media/Hi.gif" width="48px"></a> I'm Himanshu Aggarwal</h1>
 <h3 align="center">A passionate Programmer and developer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshu-agg12&label=Profile%20views&color=0e75b6&style=flat" alt="himanshu-agg12" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=himanshu-agg12&label=Profile%20views&color=0e75b6&style=flat" alt="himanshu-agg12" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=himanshu-agg12" alt="himanshu-agg12" /></a> </p>
 
-- 🔭 I’m currently working on **My Problem Solving Skills.**
+- 🔭 I’m currently working on **My Skills.**
 
-- 🌱 I’m currently learning **NodeJS, Express, AWS, Doker, soket.io**
+- 🌱 I’m currently learning **Full Stack.**
 
 - 👨‍💻 You can find me here anytime [Just text me ;)](https://www.linkedin.com/in/himanshu-aggarwal-8093201b7/)
 
@@ -53,9 +53,10 @@
   
   </p>
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=himanshu-agg12&show_icons=true&locale=en&layout=compact" alt="himanshu-agg12" /></p>&nbsp;&nbsp;
+<div align="center">
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=himanshu-agg12&show_icons=true&locale=en&layout=compact" alt="Himanshu" /></p>
+ </div>&nbsp;&nbsp;
 </br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=himanshu-agg12&show_icons=true&locale=en" alt="himanshu-agg12" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=himanshu-agg12&" alt="himanshu-agg12" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=himanshu-agg12&" alt="himanshu-agg12" /></p>
 
