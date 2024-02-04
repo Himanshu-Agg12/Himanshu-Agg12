@@ -12,11 +12,7 @@
 
 - 🌱 I’m currently learning **Full Stack.**
 
-- 👨‍💻 You can find me here anytime [Just text me ;)](https://www.linkedin.com/in/himanshu-aggarwal-8093201b7/)
-
 - 💬 Ask me about **react, linux.**
-
-- 📫 How to reach me **aggarwal.himanshu2019@gmail.com**
 
 - ⚡ Fun fact **Together we can turn caffeine into code.**
 
